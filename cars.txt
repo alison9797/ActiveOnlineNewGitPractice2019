@@ -7,5 +7,6 @@ Mercedes S500
 Kia Optima
 Lexus GX470
 Audi A6
+Subaru WRX STI
 
 
