@@ -4,10 +4,6 @@ Tesla
 BMW 3
 BWM X6
 Mercedes S500
-<<<<<<< HEAD
 Kia Optima
-
-
-=======
 Lexus GX470
->>>>>>> 4698dfa29f1fdee89e3e5fc41dcb17ad531a0659
+
