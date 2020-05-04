@@ -9,5 +9,6 @@ Lexus GX470
 Audi A6
 Honda Civic
 Subaru WRX STI
+Range Rover Velar
 
 
